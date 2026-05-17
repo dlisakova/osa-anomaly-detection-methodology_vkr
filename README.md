@@ -44,10 +44,10 @@ Construction of the controlled evaluation benchmark. **synthetic zero-sales anom
 ### 3. `OSA Anomaly Detection Model Comparison/`
 Comparative study of three fundamentally different anomaly detection approaches on the top-500 products by August sales volume. See the folder README for details.
 
-### 4. `LightGBM Final Methodology Test.ipynb`
+### 4. `LightGBM Methodology Test.ipynb`
 Extension of the winning LightGBM architecture to the full product catalogue. Introduces an enriched **feature product profile** and a systematic four-configuration benchmark (RMSE / Huber loss × conservative / strong regularisation) evaluated at z-score thresholds. Constitutes the final, deployable anomaly detection pipeline.
 
-### 5. `Final Justification Of The Created Method.ipynb`
+### 5. `Typology Features Impact on LightGBM.ipynb`
 External validation of the final pipeline against anomalies independently detected by Imredi on the same August 2025 test period. Applies an identical statistical evaluation framework to both sets, enabling a direct metric-consistent comparison of signal quality, stock filter compliance, and operational alert volume.
 
 
