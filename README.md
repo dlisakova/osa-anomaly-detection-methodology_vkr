@@ -21,7 +21,7 @@ The methodology was developed and tested on a dataset of hourly sales records ac
 osa-anomaly-detection-methodology
 ├── OSA Data Analysis EDA.ipynb
 ├── Manual Anomaly Injection on Stable Sales.ipynb
-├── LightGBM Methodology Test.ipynb
+├── LightGBM Full Methodology test.ipynb
 ├── Typology Features Impact on LightGBM.ipynb
 └── OSA Anomaly Detection Model Comparison
     ├── LightGBM for Sales Drop Detection.ipynb
